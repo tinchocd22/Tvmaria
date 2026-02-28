@@ -1,0 +1,89 @@
+#EXTM3U
+
+#EXTINF:-1, Telefe
+http://138.121.114.91:8000/play/a08a/index.m3u8
+
+#EXTINF-1, TELEFE Opc2
+http://107.152.39.199:8030/hls/canal13.m3u8
+
+#EXTINF-1,El Trece
+http://138.121.114.91:8000/play/a07b/index.m3u8
+
+#EXTINF-1, EL TRECE opc 2
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+
+#EXTINF-1,El Nueve
+http://138.121.114.91:8000/play/a08k/index.m3u8
+
+#EXTINF-1, EL NUEVE opc2
+http://107.152.39.199:8030/hls/canal7.m3u8
+
+#EXTINF-1, AMERICA 
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF-1,Friends
+https://xtream.videx.lol/Yoshiro/admin/121.m3u8
+
+#EXTINF-1,Los tres Chiflados
+https://xtream.videx.lol/Yoshiro/admin/130.m3u8
+
+#EXTINF-1,Los Simpson
+https://xtream.videx.lol/Yoshiro/admin/136.m3u8
+
+#EXTINF-1,Dos Hombres y Medio
+https://xtream.videx.lol/Yoshiro/admin/115.m3u8
+
+#EXTINF-1,Espn Premium
+http://138.121.114.91:8000/play/a086/index.m3u8
+
+#EXTINF-1,Tnt Sport
+http://138.121.114.91:8000/play/a06z/index.m3u8
+
+#EXTINF-1,Espn 1
+http://138.121.114.91:8000/play/a099/index.m3u8
+
+#EXTINF-1,Espn 2
+http://138.121.114.91:8000/play/a098/index.m3u8
+
+#EXTINF-1,Espn 3
+http://138.121.114.91:8000/play/a09a/index.m3u8
+
+#EXTINF-1,Tyc Sport
+http://138.121.114.91:8000/play/a06x/index.m3u8
+
+#EXTINF-1,Fox Sport 1
+http://138.121.114.91:8000/play/a085/index.m3u8
+
+#EXTINF-1,Fox Sport 2
+http://138.121.114.91:8000/play/a09b/index.m3u8
+
+#EXTINF-1,History Channel
+http://138.121.114.91:8000/play/a09g/index.m3u8
+
+#EXTINF-1,HBO
+http://177.10.184.193:8000/play/a02z/index.m3u8
+
+#EXTINF-1,HBO 2
+http://177.10.184.193:8000/play/a030/index.m3u8
+
+#EXTINF-1,HBO Plus
+http://177.10.184.193:8000/play/a031/index.m3u8
+
+#EXTINF-1,HBO Extremo
+http://38.210.3.64:8090/play/a0j0/index.m3u8
+
+#EXTINF-1,Universal
+http://38.210.3.64:8090/play/a0nm/index.m3u8
+
+#EXTINF-1,TN Noticias
+http://138.121.114.91:8000/play/a097/index.m3u8
+
+#EXTINF-1,A24
+http://138.121.114.91:8000/play/a05u/index.m3u8
+
+#EXTINF-1,La Nacion
+http://138.121.114.91:8000/play/a05y/index.m3u8
+
+#EXTINF-1,Cronica TV
+http://138.121.114.91:8000/play/a05w/index.m3u8
+
