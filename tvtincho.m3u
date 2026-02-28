@@ -32,18 +32,32 @@ https://xtream.videx.lol/Yoshiro/admin/115.m3u8
 
 #EXTINF-1,Espn Premium
 http://138.121.114.91:8000/play/a086/index.m3u8
+#EXTINF:-1,Espn Premium
+https://xtream.videx.lol/Yoshiro/admin/389.m3u8
 
 #EXTINF-1,Tnt Sport
 http://138.121.114.91:8000/play/a06z/index.m3u8
+#EXTINF:-1,Tnt Sport 
+https://xtream.videx.lol/Yoshiro/admin/391.m3u8
+
 
 #EXTINF-1,Espn 1
 http://138.121.114.91:8000/play/a099/index.m3u8
+#EXTINF:-1,Espn 1 (Backup)
+http://181.224.200.5:2277/play/a02p/index.m3u8
+#EXTINF:-1,Espn 1
+http://190.119.195.114:8060/play/a0lu/index.m3u8
 
 #EXTINF-1,Espn 2
 http://138.121.114.91:8000/play/a098/index.m3u8
+#EXTINF:-1,Espn 2 (Backup)
+http://181.224.200.5:2277/play/a02c/index.m3u8
 
 #EXTINF-1,Espn 3
 http://138.121.114.91:8000/play/a09a/index.m3u8
+
+#EXTINF:-1, Espn 4
+http://181.224.200.5:2277/play/a02o/index.m3u8
 
 #EXTINF-1,Tyc Sport
 http://138.121.114.91:8000/play/a06x/index.m3u8
@@ -54,6 +68,9 @@ http://138.121.114.91:8000/play/a085/index.m3u8
 #EXTINF-1,Fox Sport 2
 http://138.121.114.91:8000/play/a09b/index.m3u8
 
+#EXTINF:-1, Dsport1
+https://xtream.videx.lol/Yoshiro/admin/424.m3u8
+
 #EXTINF-1,History Channel
 http://138.121.114.91:8000/play/a09g/index.m3u8
 
@@ -62,6 +79,8 @@ http://177.10.184.193:8000/play/a02z/index.m3u8
 
 #EXTINF-1,HBO 2
 http://177.10.184.193:8000/play/a030/index.m3u8
+#EXTINF:-1,HBO 2 (Backup)
+http://179.63.6.15:8002/play/a033
 
 #EXTINF-1,HBO Plus
 http://177.10.184.193:8000/play/a031/index.m3u8
@@ -83,5 +102,6 @@ http://138.121.114.91:8000/play/a05y/index.m3u8
 
 #EXTINF-1,Cronica TV
 http://138.121.114.91:8000/play/a05w/index.m3u8
+
 
 
