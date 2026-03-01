@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, Telefe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
 http://138.121.114.91:8000/play/a08a/index.m3u8
 
-#EXTINF-1, TELEFE Opc2
+#EXTINF-1 , TELEFE Opc2
 http://redworld.pro:8880/luis738049207/98756479239/490458
 
-#EXTINF-1,El Trece
+#EXTINF-1 tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 http://138.121.114.91:8000/play/a07b/index.m3u8
 
 #EXTINF-1, EL TRECE opc 2
@@ -104,6 +104,7 @@ http://138.121.114.91:8000/play/a05y/index.m3u8
 
 #EXTINF-1,Cronica TV
 http://138.121.114.91:8000/play/a05w/index.m3u8
+
 
 
 
