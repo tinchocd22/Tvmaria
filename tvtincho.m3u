@@ -36,12 +36,13 @@ http://138.121.114.91:8000/play/a086/index.m3u8
 http://redworld.pro:8880/luis738049207/98756479239/327917
 #EXTINF:-1,Espn Premium OP2
 http://redworld.pro:8880/luis738049207/98756479239/486077
+#EXTINF-1,Espn Premium Pc
+http://192.168.0.107:5000/espn
 
 #EXTINF-1,Tnt Sport
 http://138.121.114.91:8000/play/a06z/index.m3u8
 #EXTINF:-1,Tnt Sport 
 http://redworld.pro:8880/luis738049207/98756479239/327919
-
 
 #EXTINF-1,Espn 1
 http://138.121.114.91:8000/play/a099/index.m3u8
@@ -94,7 +95,7 @@ http://38.210.3.64:8090/play/a0j0/index.m3u8
 http://38.210.3.64:8090/play/a0nm/index.m3u8
 
 #EXTINF-1,TN Noticias
-http://138.121.114.91:8000/play/a097/index.m3u8
+http://tvmate.icu:8080/Vanlith/01654/164873
 
 #EXTINF-1,A24
 http://138.121.114.91:8000/play/a05u/index.m3u8
@@ -103,7 +104,8 @@ http://138.121.114.91:8000/play/a05u/index.m3u8
 http://138.121.114.91:8000/play/a05y/index.m3u8
 
 #EXTINF-1,Cronica TV
-http://138.121.114.91:8000/play/a05w/index.m3u8
+http://tvmate.icu:8080/Vanlith/01654/164875
+
 
 
 
