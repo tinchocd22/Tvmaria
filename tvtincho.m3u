@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://207.246.114.254:25461/live/gabysports/gabysports/3172.m3u8
-
-#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", TELEFE Opc2
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870
 
 #EXTINF-1 tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
@@ -112,6 +111,7 @@ http://138.121.114.91:8000/play/a05y/index.m3u8
 
 #EXTINF-1,Cronica TV
 http://tvmate.icu:8080/Vanlith/01654/164875
+
 
 
 
