@@ -112,9 +112,13 @@ http://138.121.114.91:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/960px-Fox_sports_2_logo.svg.png",Fox Sport 2
 http://207.246.114.254:25461/live/gabysports/gabysports/3128.m3u8
 
-
 #EXTINF:-1 tvg-id="Dsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",Dsport
 https://xtream.videx.lol/Yoshiro/admin/424.m3u8
+
+#EXTINF:-1 tvg-id="Flow Eventos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/960px-Flow_logo_2021.svg.png",Flows Eventos
+http://207.246.114.254:25461/live/gabysports/gabysports/3360.m3u8
+#EXTINF:-1 tvg-id="Flow Eventos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/960px-Flow_logo_2021.svg.png",Flows Eventos
+http://207.246.114.254:25461/live/gabysports/gabysports/3359.m3u8
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png",History Channel
 http://207.246.114.254:25461/live/gabysports/gabysports/3173.m3u8
@@ -138,26 +142,46 @@ http://177.10.184.193:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Extreme
 http://38.210.3.64:8090/play/a0j0/index.m3u8
 
-#EXTINF-1,Sony 
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
 http://207.246.114.254:25461/live/gabysports/gabysports/3158.m3u8
+EXTINF:-1 tvg-id="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
+http://207.246.114.254:25461/live/gabysports/gabysports/3387.m3u8
 
-#EXTINF-1,Sony Movie 
+#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movie
 http://207.246.114.254:25461/live/gabysports/gabysports/3159.m3u8
+#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movie
+http://207.246.114.254:25461/live/gabysports/gabysports/3388.m3u8
 
-#EXTINF-1,TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT
 http://207.246.114.254:25461/live/gabysports/gabysports/3166.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT
+http://207.246.114.254:25461/live/gabysports/gabysports/3395.m3u8
 
-#EXTINF-1,TN Noticias
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/960px-Logo_Studio_Universal.svg.png",Studio Universal
+http://207.246.114.254:25461/live/gabysports/gabysports/3391.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/960px-Logo_Studio_Universal.svg.png",Studio Universal
+http://207.246.114.254:25461/live/gabysports/gabysports/3162.m3u8
+
+#EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://207.246.114.254:25461/live/gabysports/gabysports/3165.m3u8
+#EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
+http://207.246.114.254:25461/live/gabysports/gabysports/3394.m3u8
 
-#EXTINF-1,A24
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/500px-A24-logo.svg.png",A24
 http://138.121.114.91:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/500px-A24-logo.svg.png",A24
+http://207.246.114.254:25461/live/gabysports/gabysports/3089.m3u8
 
-#EXTINF-1,La Nacion
-http://138.121.114.91:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion
+http://138.121.114.91:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion
+http://207.246.114.254:25461/live/gabysports/gabysports/3143.m3u8
 
-#EXTINF-1,Cronica TV
+#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cr%C3%B3nica-logo.svg/960px-Cr%C3%B3nica-logo.svg.png",Cronica TV
 http://tvmate.icu:8080/Vanlith/01654/164875
+#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cr%C3%B3nica-logo.svg/960px-Cr%C3%B3nica-logo.svg.png",Cronica TV
+http://207.246.114.254:25461/live/gabysports/gabysports/3105.m3u8
+
 
 
 
