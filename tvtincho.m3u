@@ -14,11 +14,11 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 http://207.246.114.254:25461/live/gabysports/gabysports/3410.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/tc4c5h.png",El Nueve
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/v8f87q.jpg",El Nueve
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/tc4c5h.png",El Nueve
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/v8f87q.jpg",El Nueve
 http://207.246.114.254:25461/live/gabysports/gabysports/3181.m3u8
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/tc4c5h.png",El Nueve
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/v8f87q.jpg",El Nueve
 http://207.246.114.254:25461/live/gabysports/gabysports/3409.m3u8
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", America TV 
@@ -45,13 +45,13 @@ https://xtream.videx.lol/Yoshiro/admin/136.m3u8
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://files.catbox.moe/dsvlqx.png",Dos Hombres y Medio
 https://xtream.videx.lol/Yoshiro/admin/115.m3u8
 
-#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://207.246.114.254:25461/live/gabysports/gabysports/3121.m3u8
-#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://207.246.114.254:25461/live/gabysports/gabysports/3354.m3u8
-#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://redworld.pro:8880/luis738049207/98756479239/327917
-#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://redworld.pro:8880/luis738049207/98756479239/486077
 
 
@@ -102,30 +102,40 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3174.m3u8
 #EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TyC Sport
 http://207.246.114.254:25461/live/gabysports/gabysports/3403.m3u8
 
-#EXTINF-1,Fox Sport 1
+#EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/960px-Fox_Sports_1_logo.svg.png",Fox Sport 1
 http://138.121.114.91:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/960px-Fox_Sports_1_logo.svg.png",Fox Sport 1
+http://207.246.114.254:25461/live/gabysports/gabysports/3130.m3u8
 
-#EXTINF-1,Fox Sport 2
+#EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/960px-Fox_sports_2_logo.svg.png",Fox Sport 2
 http://138.121.114.91:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/960px-Fox_sports_2_logo.svg.png",Fox Sport 2
+http://207.246.114.254:25461/live/gabysports/gabysports/3128.m3u8
 
-#EXTINF:-1, Dsport1
+
+#EXTINF:-1 tvg-id="Dsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",Dsport
 https://xtream.videx.lol/Yoshiro/admin/424.m3u8
 
-#EXTINF-1,History Channel
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png",History Channel
 http://207.246.114.254:25461/live/gabysports/gabysports/3173.m3u8
 
-#EXTINF-1,HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://files.catbox.moe/n3766o.png",HBO
 http://177.10.184.193:8000/play/a02z/index.m3u8
 
-#EXTINF-1,HBO 2
+#EXTINF:-1 tvg-id="HBO 2+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png",HBO 2+
 http://177.10.184.193:8000/play/a030/index.m3u8
-#EXTINF:-1,HBO 2 (Backup)
-http://179.63.6.15:8002/play/a033
 
-#EXTINF-1,HBO Plus
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://179.63.6.15:8002/play/a033
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://207.246.114.254:25461/live/gabysports/gabysports/3133.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
+http://177.10.184.193:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 http://177.10.184.193:8000/play/a031/index.m3u8
 
-#EXTINF-1,HBO Extremo
+#EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Extreme
 http://38.210.3.64:8090/play/a0j0/index.m3u8
 
 #EXTINF-1,Sony 
@@ -148,6 +158,7 @@ http://138.121.114.91:8000/play/a05y/index.m3u8
 
 #EXTINF-1,Cronica TV
 http://tvmate.icu:8080/Vanlith/01654/164875
+
 
 
 
