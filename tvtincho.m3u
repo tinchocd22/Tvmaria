@@ -4,66 +4,103 @@
 http://207.246.114.254:25461/live/gabysports/gabysports/3172.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://207.246.114.254:25461/live/gabysports/gabysports/3401.m3u8
 
-#EXTINF-1 tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 http://207.246.114.254:25461/live/gabysports/gabysports/3182.m3u8
-
-#EXTINF-1 tvg-logo="https://files.catbox.moe/finwuj.png", EL TRECE opc 2
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+http://207.246.114.254:25461/live/gabysports/gabysports/3410.m3u8
 
-#EXTINF-1 tvg-logo="https://files.catbox.moe/tc4c5h.png",El Nueve
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/tc4c5h.png",El Nueve
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/tc4c5h.png",El Nueve
+http://207.246.114.254:25461/live/gabysports/gabysports/3181.m3u8
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/tc4c5h.png",El Nueve
+http://207.246.114.254:25461/live/gabysports/gabysports/3409.m3u8
 
-#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", AMERICA TV 
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", America TV 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", America TV 
+http://207.246.114.254:25461/live/gabysports/gabysports/3094.m3u8
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", America TV 
+http://207.246.114.254:25461/live/gabysports/gabysports/3326.m3u8
 
-#EXTINF-1 tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver
+#EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver
 http://207.246.114.254:25461/live/gabysports/gabysports/3178.m3u8
+#EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver
+http://207.246.114.254:25461/live/gabysports/gabysports/3406.m3u8
 
-#EXTINF-1 https://files.catbox.moe/w29n0y.png, Friends
+#EXTINF:-1 tvg-id="Friends" tvg-logo="https://files.catbox.moe/nhzkkx.jpg",Friends
 https://xtream.videx.lol/Yoshiro/admin/121.m3u8
 
-#EXTINF-1 https://files.catbox.moe/enguyv.png,Los tres Chiflados
+#EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://files.catbox.moe/bmk4w1.png",Los tres Chiflados
 https://xtream.videx.lol/Yoshiro/admin/130.m3u8
 
-#EXTINF-1 https://es.wikipedia.org/wiki/Archivo:Los-simpson.logoespa%C3%B1ol.png,Los Simpson
+#EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://files.catbox.moe/8368xr.png",Los Simpson
 https://xtream.videx.lol/Yoshiro/admin/136.m3u8
 
-#EXTINF-1,Dos Hombres y Medio
+#EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://files.catbox.moe/dsvlqx.png",Dos Hombres y Medio
 https://xtream.videx.lol/Yoshiro/admin/115.m3u8
 
-#EXTINF-1,Espn Premium
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
 http://207.246.114.254:25461/live/gabysports/gabysports/3121.m3u8
-#EXTINF:-1,Espn Premium Op1
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
+http://207.246.114.254:25461/live/gabysports/gabysports/3354.m3u8
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
 http://redworld.pro:8880/luis738049207/98756479239/327917
-#EXTINF:-1,Espn Premium OP2
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png",Espn Premium
 http://redworld.pro:8880/luis738049207/98756479239/486077
 
-#EXTINF-1,Tnt Sport
+
+#EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
 http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
-#EXTINF:-1,Tnt Sport Opc 2
+#EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
+http://207.246.114.254:25461/live/gabysports/gabysports/3398.m3u8
+#EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
 http://redworld.pro:8880/luis738049207/98756479239/327919
 
-#EXTINF-1,Espn 1
+#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://files.catbox.moe/zi1opu.jpg",Espn 1
 http://138.121.114.91:8000/play/a099/index.m3u8
-#EXTINF:-1,Espn 1 Opc 1
+#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://files.catbox.moe/zi1opu.jpg",Espn 1
+http://207.246.114.254:25461/live/gabysports/gabysports/3120.m3u8
+#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://files.catbox.moe/zi1opu.jpg",Espn 1
 http://181.224.200.5:2277/play/a02p/index.m3u8
-#EXTINF:-1,Espn Opc 2
+#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://files.catbox.moe/zi1opu.jpg",Espn 1
 http://190.119.195.114:8060/play/a0lu/index.m3u8
+#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://files.catbox.moe/zi1opu.jpg",Espn 1
+http://207.246.114.254:25461/live/gabysports/gabysports/3353.m3u8
 
-#EXTINF-1,Espn 2
+#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://files.catbox.moe/jmah91.jpg",Espn 2
 http://138.121.114.91:8000/play/a098/index.m3u8
-#EXTINF:-1,Espn 2 (Backup)
+#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://files.catbox.moe/jmah91.jpg",Espn 2
+http://207.246.114.254:25461/live/gabysports/gabysports/3117.m3u8
+#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://files.catbox.moe/jmah91.jpg",Espn 2
+http://207.246.114.254:25461/live/gabysports/gabysports/3350.m3u8
+
+#EXTINF:-1 tvg-id="Espn 2 Plus" tvg-logo="https://files.catbox.moe/jmah91.jpg",Espn 2 Plus
 http://181.224.200.5:2277/play/a02c/index.m3u8
 
-#EXTINF-1,Espn 3
+#EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://files.catbox.moe/2749yz.png",Espn 3
 http://138.121.114.91:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://files.catbox.moe/2749yz.png",Espn 3
+http://207.246.114.254:25461/live/gabysports/gabysports/3351.m3u8
+#EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://files.catbox.moe/2749yz.png",Espn 3
+http://207.246.114.254:25461/live/gabysports/gabysports/3118.m3u8
 
-#EXTINF:-1, Espn 4
+#EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",Espn 4
 http://181.224.200.5:2277/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",Espn 4
+http://207.246.114.254:25461/live/gabysports/gabysports/3352.m3u8
+#EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",Espn 4
+http://207.246.114.254:25461/live/gabysports/gabysports/3119.m3u8
 
-#EXTINF-1,Tyc Sport
+#EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TyC Sport
 http://207.246.114.254:25461/live/gabysports/gabysports/3174.m3u8
+#EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TyC Sport
+http://207.246.114.254:25461/live/gabysports/gabysports/3403.m3u8
 
 #EXTINF-1,Fox Sport 1
 http://138.121.114.91:8000/play/a085/index.m3u8
@@ -111,6 +148,7 @@ http://138.121.114.91:8000/play/a05y/index.m3u8
 
 #EXTINF-1,Cronica TV
 http://tvmate.icu:8080/Vanlith/01654/164875
+
 
 
 
