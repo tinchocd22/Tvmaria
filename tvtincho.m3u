@@ -34,6 +34,8 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3178.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3406.m3u8
 
 #EXTINF:-1 tvg-id="Friends" tvg-logo="https://files.catbox.moe/nhzkkx.jpg",Friends
+http://ultrax.online:8080/997666249tv/hypxsw64/250548
+#EXTINF:-1 tvg-id="Friends" tvg-logo="https://files.catbox.moe/nhzkkx.jpg",Friends
 https://xtream.videx.lol/Yoshiro/admin/121.m3u8
 
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://files.catbox.moe/bmk4w1.png",Los tres Chiflados
@@ -162,6 +164,9 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3391.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/960px-Logo_Studio_Universal.svg.png",Studio Universal
 http://207.246.114.254:25461/live/gabysports/gabysports/3162.m3u8
 
+#EXTINF:-1 tvg-id="Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marvel%27s_The_Avengers_logo.svg/960px-Marvel%27s_The_Avengers_logo.svg.png",Avengers
+http://ultrax.online:8080/997666249tv/hypxsw64/250576
+
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://207.246.114.254:25461/live/gabysports/gabysports/3165.m3u8
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
@@ -181,6 +186,10 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3143.m3u8
 http://tvmate.icu:8080/Vanlith/01654/164875
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cr%C3%B3nica-logo.svg/960px-Cr%C3%B3nica-logo.svg.png",Cronica TV
 http://207.246.114.254:25461/live/gabysports/gabysports/3105.m3u8
+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://files.catbox.moe/qqe4y3.jpg",Fin del Mundo 2
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
+
 
 
 
