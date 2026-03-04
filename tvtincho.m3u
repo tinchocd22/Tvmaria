@@ -57,11 +57,11 @@ http://redworld.pro:8880/luis738049207/98756479239/327917
 http://redworld.pro:8880/luis738049207/98756479239/486077
 
 
-#EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
 http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
-#EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
 http://207.246.114.254:25461/live/gabysports/gabysports/3398.m3u8
-#EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
 http://redworld.pro:8880/luis738049207/98756479239/327919
 
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://files.catbox.moe/zi1opu.jpg",Espn 1
@@ -115,7 +115,13 @@ http://138.121.114.91:8000/play/a09b/index.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3128.m3u8
 
 #EXTINF:-1 tvg-id="Dsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",Dsport
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="Dsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",Dsport
 https://xtream.videx.lol/Yoshiro/admin/424.m3u8
+
+#EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",Dsport +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Flow Eventos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/960px-Flow_logo_2021.svg.png",Flows Eventos
 http://207.246.114.254:25461/live/gabysports/gabysports/3360.m3u8
@@ -141,8 +147,13 @@ http://177.10.184.193:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 http://177.10.184.193:8000/play/a031/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://files.catbox.moe/h7sdvb.png",HBO Pop
+http://38.224.73.146:8000/play/a13j/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Extreme
 http://38.210.3.64:8090/play/a0j0/index.m3u8
+#EXTINF:-1 tvg-id="HBO Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Extreme
+http://38.224.175.2:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
 http://207.246.114.254:25461/live/gabysports/gabysports/3158.m3u8
@@ -178,7 +189,7 @@ http://138.121.114.91:8000/play/a05u/index.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3089.m3u8
 
 #EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion
-http://138.121.114.91:8000/play/a05u/index.m3u8
+http://207.246.114.254:25461/live/gabysports/gabysports/3377.m3u8
 #EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",La Nacion
 http://207.246.114.254:25461/live/gabysports/gabysports/3143.m3u8
 
@@ -205,6 +216,26 @@ http://ultrax.online:8080/movie/997666249tv/hypxsw64/5368.mkv
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/5249.mp4
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/l1dy3s.jpg",Fin de semana de Locura
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/5176.mp4
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://files.catbox.moe/jrr0ow.png",Cadena Perpetua
+http://ultrax.online:8080/movie/997791182tv/ph537l/4928.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/0m5h4j.jpg",Ace Ventura
+http://ultrax.online:8080/movie/997791182tv/ph537l/3729.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/byerlt.jpg",Ace Ventura 2
+http://ultrax.online:8080/movie/997791182tv/ph537l/3730.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/471nfc.jpg",Tornado
+http://ultrax.online:8080/movie/997791182tv/ph537l/4862.mp4
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/9klfu7.jpg",Día de la Independencia
+http://ultrax.online:8080/movie/997791182tv/ph537l/249298.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/qeiapp.jpg",Contracara
+http://ultrax.online:8080/movie/997791182tv/ph537l/71459.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/ga21ww.jpg",Mentiroso Mentiroso
+http://ultrax.online:8080/movie/997791182tv/ph537l/5214.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://files.catbox.moe/vufrp7.jpg",La Momia
+http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/v420ax.jpg",Matrix
+http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
+
+
 
 
 
