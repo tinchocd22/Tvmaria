@@ -187,8 +187,9 @@ http://tvmate.icu:8080/Vanlith/01654/164875
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cr%C3%B3nica-logo.svg/960px-Cr%C3%B3nica-logo.svg.png",Cronica TV
 http://207.246.114.254:25461/live/gabysports/gabysports/3105.m3u8
 
-#EXTINF:-1 group-title="Películas" tvg-logo="https://files.catbox.moe/qqe4y3.jpg",Fin del Mundo 2
+#EXTINF:-1 type="movie" group-title="Películas" tvg-logo="https://files.catbox.moe/qqe4y3.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
+
 
 
 
