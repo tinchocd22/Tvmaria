@@ -52,9 +52,7 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3121.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://207.246.114.254:25461/live/gabysports/gabysports/3354.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://redworld.pro:8880/luis738049207/98756479239/327917
-#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://redworld.pro:8880/luis738049207/98756479239/486077
+http://192.168.0.107:5000
 
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
@@ -234,6 +232,7 @@ http://ultrax.online:8080/movie/997791182tv/ph537l/5214.mp4
 http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
 #EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/v420ax.jpg",Matrix
 http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
+
 
 
 
