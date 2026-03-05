@@ -41,8 +41,8 @@ https://xtream.videx.lol/Yoshiro/admin/121.m3u8
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://files.catbox.moe/bmk4w1.png",Los tres Chiflados
 https://xtream.videx.lol/Yoshiro/admin/130.m3u8
 
-#EXTINF:-1 tvg-id="Casados Con Hijos" tvg-logo="https://files.catbox.moe/bmk4w1.png",Casados Con Hijos
-https://yewtu.be/latest/XHB4A50fpoU
+#EXTINF:-1 tvg-id="Casados Con Hijos" tvg-logo="https://files.catbox.moe/bwgp2a.png",Casados Con Hijos
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772750399/ei/37Gpaei6AsaQ-LAP-KfS-A0/ip/152.168.46.113/id/5c7078039d1fa685/itag/301/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D694266778%3Bdur%3D42898.585%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1772609368223913/sgovp/clen%3D19043663624%3Bdur%3D42898.533%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1772597016885455/rqh/1/hls_chunk_host/rr2---sn-uxaxjvh5gbxoupo5-x1xle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/634/met/1772728799,/mh/js/mm/31,26/mn/sn-uxaxjvh5gbxoupo5-x1xle,sn-bg0s7nls/ms/au,onr/mv/m/mvi/2/pl/24/rms/au,au/force_finished/1/initcwndbps/2005000/bui/AVNa5-xlvfjIw4TbRhCc2RtN4nUBfQbALgJ4udTT_E7A-tbVk9ue-iL9qZbyxAbpgP9ndA2J2M-0Fdu8/spc/6dlaFD00ZGnxnNFmqHSmixw6MiZS35NdrEhhwUQunCtetL4yTfcx7jGMuv1TjwcU-l4D7YAKnK3-w3nqyQmw24qKshI/vprv/1/ns/bzwZkPA3-JDQpg69mbq2T8UT/playlist_type/CLEAN/dover/11/txp/5309224/mt/1772728423/fvip/1/keepalive/yes/fexp/51565116,51565681,51791334/n/b5H_p9wZPjRBUQ/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,force_finished,bui,spc,vprv,ns,playlist_type/sig/AHEqNM4wRAIgXR_fHeABTbO68MZ0eFwHf4coy1X3k_PYTK3xspN3ecECIE0ueedeexQFodlj5N3IyGc3Xb4j1QBFTT_TrO8NBCA-/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAJCW5B4SYdVvD7Zq7ebBkxl0-zJisZ9XqOvci9dYTzvCAiEArq_rXRs7Tq4TAAyVtEVXXQRIfQwwPYQ4PvNm_JFDooI%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://files.catbox.moe/8368xr.png",Los Simpson
 https://xtream.videx.lol/Yoshiro/admin/136.m3u8
@@ -244,6 +244,7 @@ http://ultrax.online:8080/movie/986959040tv/s914eh/279648.mkv
 http://ultrax.online:8080/movie/986959040tv/s914eh/279351.mp4
 #EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg",El Protegido
 ttp://ultrax.online:8080/movie/986959040tv/s914eh/9407.mp4
+
 
 
 
