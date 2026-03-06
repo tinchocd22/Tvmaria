@@ -20,6 +20,8 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
 http://207.246.114.254:25461/live/gabysports/gabysports/3181.m3u8
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/v8f87q.jpg",El Nueve
 http://207.246.114.254:25461/live/gabysports/gabysports/3409.m3u8
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/v8f87q.jpg",El Nueve
+http://matrivagoweb.xyz:8080/ANT116/123456/51590
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", America TV 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -241,6 +243,24 @@ http://ultrax.online:8080/movie/986959040tv/s914eh/279648.mkv
 http://ultrax.online:8080/movie/986959040tv/s914eh/279351.mp4
 #EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg",El Protegido
 ttp://ultrax.online:8080/movie/986959040tv/s914eh/9407.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",Acto Encubierto
+http://ultrax.online:8080/movie/986959040tv/s914eh/280017.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg",Un Buen Ladron
+http://ultrax.online:8080/movie/986959040tv/s914eh/279984.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/original/yHQ57eEPpy6xnoilKeOE20G1SZR.jpg",La Mascara
+http://liontv.es:8080/movie/Julio2003/Julio2003/1591362.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/jvt7wr.jpg",Locademia de policia
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/214500.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/viwfun.jpg",Top Secret
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/293819.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/wwj4pb.jpg",Esperando la Carroza
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/292544.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/4bsmvs.jpg",Locademia de policia 2
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/214499.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/snftpu.jpg",Quisiera ser Grande
+http://matrivagoweb.xyz:8080/movie/ANT116/123456/292140.mkv
+
+
 
 
 
