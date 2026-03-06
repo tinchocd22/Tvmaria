@@ -16,15 +16,15 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
 http://207.246.114.254:25461/live/gabysports/gabysports/3410.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/srfoga.png",El Nueve
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/srfoga.png",El Nueve 
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://207.246.114.254:25461/live/gabysports/gabysports/3181.m3u8
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/srfoga.png",El Nueve 
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://207.246.114.254:25461/live/gabysports/gabysports/3409.m3u8
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/srfoga.png",El Nueve 
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://matrivagoweb.xyz:8080/ANT116/123456/51590
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/srfoga.png",El Nueve 
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81271.ts
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
@@ -68,6 +68,8 @@ http://138.121.114.91:8000/play/a086/index.m3u8
 http://181.209.37.74:8001/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81254.ts
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
 http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
@@ -75,6 +77,8 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3398.m3u8
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://redworld.pro:8880/luis738049207/98756479239/327919
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
 
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
 http://138.121.114.91:8000/play/a099/index.m3u8
@@ -134,10 +138,12 @@ https://xtream.videx.lol/Yoshiro/admin/424.m3u8
 #EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://iili.io/qopSTzb.png",Dsport +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Flow Eventos" tvg-logo="https://iili.io/qoprndN.png",Flows Eventos
 http://207.246.114.254:25461/live/gabysports/gabysports/3360.m3u8
 #EXTINF:-1 tvg-id="Flow Eventos" tvg-logo="https://iili.io/qoprndN.png",Flows Eventos 
+http://207.246.114.254:25461/live/gabysports/gabysports/3359.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1 
 http://207.246.114.254:25461/live/gabysports/gabysports/3359.m3u8
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://iili.io/qopiEcx.png",History Channel
@@ -276,6 +282,7 @@ http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx9fQx1.jpg",Loca Academia de Piloto 2
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
+
 
 
 
