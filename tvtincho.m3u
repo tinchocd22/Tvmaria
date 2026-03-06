@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="telefe" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://207.246.114.254:25461/live/gabysports/gabysports/3172.m3u8
-#EXTINF:-1 tvg-id="telefe" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe opc 1
+#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe opc 1
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" Name="opc 2",Telefe 
 http://207.246.114.254:25461/live/gabysports/gabysports/3401.m3u8
@@ -279,6 +279,7 @@ http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/l4gzc9.jpg",Loca Academia de Piloto 2
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
+
 
 
 
