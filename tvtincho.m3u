@@ -6,6 +6,8 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3172.m3u8
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://207.246.114.254:25461/live/gabysports/gabysports/3401.m3u8
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81285.ts
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 http://207.246.114.254:25461/live/gabysports/gabysports/3182.m3u8
@@ -22,6 +24,8 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3181.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3409.m3u8
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/v8f87q.jpg",El Nueve
 http://matrivagoweb.xyz:8080/ANT116/123456/51590
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://files.catbox.moe/v8f87q.jpg",El Nueve
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81271.ts
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", America TV 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -29,6 +33,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3094.m3u8
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", America TV 
 http://207.246.114.254:25461/live/gabysports/gabysports/3326.m3u8
+
+#EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://files.catbox.moe/2gukqf.jpg", Gran Hermano
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/453157.ts
 
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver
 http://207.246.114.254:25461/live/gabysports/gabysports/3178.m3u8
@@ -41,10 +48,12 @@ http://ultrax.online:8080/997666249tv/hypxsw64/250548
 https://xtream.videx.lol/Yoshiro/admin/121.m3u8
 
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://files.catbox.moe/bmk4w1.png",Los tres Chiflados
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/403686.ts
+#EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://files.catbox.moe/bmk4w1.png",Los tres Chiflados
 https://xtream.videx.lol/Yoshiro/admin/130.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://files.catbox.moe/8368xr.png",Los Simpson
-https://xtream.videx.lol/Yoshiro/admin/136.m3u8
+http://matrivagoweb.xyz:8080/993372393/142536/83476
 
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://files.catbox.moe/dsvlqx.png",Dos Hombres y Medio
 https://xtream.videx.lol/Yoshiro/admin/115.m3u8
@@ -179,6 +188,9 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3162.m3u8
 #EXTINF:-1 tvg-id="Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marvel%27s_The_Avengers_logo.svg/960px-Marvel%27s_The_Avengers_logo.svg.png",Avengers
 http://ultrax.online:8080/997666249tv/hypxsw64/250576
 
+#EXTINF:-1 tvg-id="Cine Comedia" tvg-logo="https://files.catbox.moe/8n52hw.jpg",Cine Comedia
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/317116.ts
+
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://207.246.114.254:25461/live/gabysports/gabysports/3165.m3u8
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
@@ -259,7 +271,12 @@ http://matrivagoweb.xyz:8080/movie/ANT116/123456/292544.mkv
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/214499.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/snftpu.jpg",Quisiera ser Grande
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/292140.mkv
-
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/inhrcv.jpg",Scary Movie
+http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/2s02cg.png",Loca Academia de Piloto
+http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/0jsp1p.jpg",Loca Academia de Piloto 2
+http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
 
 
 
