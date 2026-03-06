@@ -197,6 +197,50 @@ http://tvmate.icu:8080/Vanlith/01654/164875
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cr%C3%B3nica-logo.svg/960px-Cr%C3%B3nica-logo.svg.png",Cronica TV
 http://207.246.114.254:25461/live/gabysports/gabysports/3105.m3u8
 
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://files.catbox.moe/qqe4y3.jpg",Fin del Mundo 2
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/uaud8h.jpg",Despedida de Soltero
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5167.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/utk7ww.jpg",La Pistola Desnuda
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/9947.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/vt6ust.jpg",La Pistola Desnuda 2
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/9949.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/qqgi4i.jpg",La Pistola Desnuda 3
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/9948.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/r8d5dm.jpg",La Chica de Rojo
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5194.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/uh7e9w.jpg",El Secreto de mi Exito
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5368.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/95runy.jpg",Un Principe en Nueva York
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5249.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/l1dy3s.jpg",Fin de semana de Locura
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/5176.mp4
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://files.catbox.moe/jrr0ow.png",Cadena Perpetua
+http://ultrax.online:8080/movie/997791182tv/ph537l/4928.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/0m5h4j.jpg",Ace Ventura
+http://ultrax.online:8080/movie/997791182tv/ph537l/3729.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/byerlt.jpg",Ace Ventura 2
+http://ultrax.online:8080/movie/997791182tv/ph537l/3730.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/471nfc.jpg",Tornado
+http://ultrax.online:8080/movie/997791182tv/ph537l/4862.mp4
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/9klfu7.jpg",Día de la Independencia
+http://ultrax.online:8080/movie/997791182tv/ph537l/249298.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/qeiapp.jpg",Contracara
+http://ultrax.online:8080/movie/997791182tv/ph537l/71459.mp4
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://files.catbox.moe/ga21ww.jpg",Mentiroso Mentiroso
+http://ultrax.online:8080/movie/997791182tv/ph537l/5214.mp4
+#EXTINF:-1 type="movie" group-title="Aventura" tvg-logo="https://files.catbox.moe/vufrp7.jpg",La Momia
+http://ultrax.online:8080/movie/997791182tv/ph537l/4176.mkv
+#EXTINF:-1 type="movie" group-title="Accion" tvg-logo="https://files.catbox.moe/v420ax.jpg",Matrix
+http://ultrax.online:8080/movie/997791182tv/ph537l/249310.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg",Equipo de Demolicion
+http://ultrax.online:8080/movie/986959040tv/s914eh/279706.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg",Codigo Venganza
+http://ultrax.online:8080/movie/986959040tv/s914eh/279648.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",El Botín
+http://ultrax.online:8080/movie/986959040tv/s914eh/279351.mp4
+#EXTINF:-1 type="movie" group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg",El Protegido
+ttp://ultrax.online:8080/movie/986959040tv/s914eh/9407.mp4
 
 
 
