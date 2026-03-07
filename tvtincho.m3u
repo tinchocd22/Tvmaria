@@ -53,7 +53,7 @@ http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/403686.ts
 https://xtream.videx.lol/Yoshiro/admin/130.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/qopF7sf.png",Los Simpson
-http://matrivagoweb.xyz:8080/993372393/142536/83476
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178834
 
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
 https://xtream.videx.lol/Yoshiro/admin/115.m3u8
@@ -81,7 +81,7 @@ http://redworld.pro:8880/luis738049207/98756479239/327919
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
 
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
-http://138.121.114.91:8000/play/a099/index.m3u8
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9521
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://207.246.114.254:25461/live/gabysports/gabysports/3120.m3u8
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
@@ -196,6 +196,17 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3162.m3u8
 #EXTINF:-1 tvg-id="Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marvel%27s_The_Avengers_logo.svg/960px-Marvel%27s_The_Avengers_logo.svg.png",Avengers
 http://ultrax.online:8080/997666249tv/hypxsw64/250576
 
+#EXTINF:-1 tvg-id="Golden Premier" tvg-logo="https://iili.io/qxGDJv1.png",Golden Premier
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164942
+#EXTINF:-1 tvg-id="Peliculas Accion" tvg-logo="https://iili.io/qxGDJv1.png",Peliculas Accion
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164583
+#EXTINF:-1 tvg-id="Peliculas Accion 2" tvg-logo="https://iili.io/qxGDJv1.png",Peliculas Accion 2
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164586
+#EXTINF:-1 tvg-id="Apple Movie" tvg-logo="https://iili.io/qxV6WOJ.png",Apple Movie
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164956
+
+
+
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://207.246.114.254:25461/live/gabysports/gabysports/3165.m3u8
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias 
@@ -282,6 +293,7 @@ http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx9fQx1.jpg",Loca Academia de Piloto 2
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
+
 
 
 
