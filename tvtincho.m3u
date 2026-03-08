@@ -36,6 +36,13 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3326.m3u8
 
 #EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/454926.ts
+#EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
+http://dplatino.net:80//live/credito3geotv/car26octtv/454927.ts
+#EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
+http://dplatino.net:80//live/credito3geotv/car26octtv/454928.ts
+#EXTINF:-1 tvg-id="Gran Hermano" tvg-logo="https://iili.io/qomDpp4.png", Gran Hermano
+http://dplatino.net:80//live/credito3geotv/car26octtv/454929.ts
+
 
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver
 http://207.246.114.254:25461/live/gabysports/gabysports/3178.m3u8
@@ -50,11 +57,15 @@ http://ultrax.online:8080/997666249tv/hypxsw64/250548
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://iili.io/qopd7iQ.png",Los tres Chiflados
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/403686.ts
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://iili.io/qopd7iQ.png",Los tres Chiflados 
-https://xtream.videx.lol/Yoshiro/admin/130.m3u8
+http://dplatino.net:80//live/credito3geotv/car26octtv/403686.ts
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/qopF7sf.png",Los Simpson
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178834
 
+#EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
+http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/166307
+#EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
+http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/166308
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
 https://xtream.videx.lol/Yoshiro/admin/115.m3u8
 
@@ -293,6 +304,7 @@ http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx9fQx1.jpg",Loca Academia de Piloto 2
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
+
 
 
 
