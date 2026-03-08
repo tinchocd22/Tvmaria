@@ -81,6 +81,8 @@ http://181.209.37.74:8001/play/a086/index.m3u8
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81254.ts
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
+http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
 http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
@@ -154,8 +156,10 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3360.m3u8
 #EXTINF:-1 tvg-id="Flow Eventos" tvg-logo="https://iili.io/qoprndN.png",Flows Eventos 
 http://207.246.114.254:25461/live/gabysports/gabysports/3359.m3u8
 
-#EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1 
+#EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1
 http://matrivagoweb.xyz:8080/5322637/123456/369754
+#EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1
+http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/156164
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://iili.io/qopiEcx.png",History Channel
 http://207.246.114.254:25461/live/gabysports/gabysports/3173.m3u8
@@ -375,6 +379,7 @@ http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82294.mkv
 http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82295.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E30" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E30
 http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82296.mkv
+
 
 
 
