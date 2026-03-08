@@ -16,8 +16,6 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
 http://207.246.114.254:25461/live/gabysports/gabysports/3410.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve
-http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://207.246.114.254:25461/live/gabysports/gabysports/3181.m3u8
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
@@ -26,6 +24,8 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3409.m3u8
 http://matrivagoweb.xyz:8080/ANT116/123456/51590
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81271.ts
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164869
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://iili.io/qom6oTF.png", America TV 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -42,10 +42,10 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3178.m3u8
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver 
 http://207.246.114.254:25461/live/gabysports/gabysports/3406.m3u8
 
+#EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends 
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166086
 #EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends
 http://ultrax.online:8080/997666249tv/hypxsw64/250548
-#EXTINF:-1 tvg-id="Friends" tvg-logo="https://iili.io/qomypK7.png",Friends 
-https://xtream.videx.lol/Yoshiro/admin/121.m3u8
 
 #EXTINF:-1 tvg-id="Los Tres Chiflados" tvg-logo="https://iili.io/qopd7iQ.png",Los tres Chiflados
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/403686.ts
@@ -80,8 +80,6 @@ http://redworld.pro:8880/luis738049207/98756479239/327919
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
 
-#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9521
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://207.246.114.254:25461/live/gabysports/gabysports/3120.m3u8
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
@@ -90,13 +88,15 @@ http://181.224.200.5:2277/play/a02p/index.m3u8
 http://190.119.195.114:8060/play/a0lu/index.m3u8
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://207.246.114.254:25461/live/gabysports/gabysports/3353.m3u8
+#EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9521
 
-#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2
-http://138.121.114.91:8000/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
 http://207.246.114.254:25461/live/gabysports/gabysports/3117.m3u8
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
 http://207.246.114.254:25461/live/gabysports/gabysports/3350.m3u8
+#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2
+http://138.121.114.91:8000/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn 2 Plus" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 Plus
 http://181.224.200.5:2277/play/a02c/index.m3u8
@@ -120,15 +120,15 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3174.m3u8
 #EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://iili.io/qopV6rJ.png",TyC Sport 
 http://207.246.114.254:25461/live/gabysports/gabysports/3403.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1
-http://138.121.114.91:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1 
 http://207.246.114.254:25461/live/gabysports/gabysports/3130.m3u8
+#EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1
+http://138.121.114.91:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2
-http://138.121.114.91:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2 
 http://207.246.114.254:25461/live/gabysports/gabysports/3128.m3u8
+#EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2
+http://138.121.114.91:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/qopkq0P.png",Dsport
 http://217.26.190.76:8888/play/a0co/index.m3u8
@@ -201,7 +201,7 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164942
 #EXTINF:-1 tvg-id="Peliculas Accion" tvg-logo="https://iili.io/qxVYBN2.png",Peliculas Accion
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164583
 #EXTINF:-1 tvg-id="Peliculas Accion 2" tvg-logo="https://iili.io/qxVYBN2.png",Peliculas Accion 2
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164586
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164870
 #EXTINF:-1 tvg-id="Apple Movie" tvg-logo="https://iili.io/qxV6WOJ.png",Apple Movie
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164956
 
@@ -293,6 +293,7 @@ http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx9fQx1.jpg",Loca Academia de Piloto 2
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
+
 
 
 
