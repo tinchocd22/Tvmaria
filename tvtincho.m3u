@@ -83,6 +83,8 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81254.ts
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
+http://dplatino.net:80/live/credito3geotv/car26octtv/81254.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
 http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
@@ -320,6 +322,13 @@ http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7475.mkv
 http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7483.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://iili.io/qT8Jqg4.jpg",War Machine
 http://dplatino.net:80/movie/usuariocanales655/GSroWNZWux/455965.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",El Guardian
+http://dplatino.net:80/movie/credito3geotv/car26octtv/453940.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg",El Engaño
+http://dplatino.net:80/movie/credito3geotv/car26octtv/453939.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://mundo2.pro:80/images/c03fe3b4da5563b37b6158700ec0aea4.jpg",We Bury the Dead
+http://dplatino.net:80/movie/credito3geotv/car26octtv/453702.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E01" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E01
 http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82267.mkv
@@ -421,6 +430,7 @@ http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82314.mkv
 http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82315.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E50" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E50
 http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82316.mkv
+
 
 
 
