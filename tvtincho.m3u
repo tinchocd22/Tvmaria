@@ -223,7 +223,6 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164870
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164956
 
 
-
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://207.246.114.254:25461/live/gabysports/gabysports/3165.m3u8
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias 
@@ -334,20 +333,6 @@ http://planettvweb.com:8091/movie/silviah/silvia24/80544.mp4
 http://planettvweb.com:8091/movie/silviah/silvia24/80546.mkv
 #EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3ZNM7UnxUcfITM8VWwujYHY1n.jpg",Cama Redonda
 http://planettvweb.com:8091/movie/silviah/silvia24/80480.mp4
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpsC4U5zgAcHy0YYwSvanJiJJrX.jpg",El Manosanta
-http://planettvweb.com:8091/movie/silviah/silvia24/70928.mkv
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aP4rQoaJsUSJEsIsO7YKjFEBpg.jpg",Experto en Pinchazos
-http://planettvweb.com:8091/movie/silviah/silvia24/70932.avi
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai3fMmUF3ysxmvHwGINr2wgeP6E.jpg",Hay Que Romper La Rutina
-http://planettvweb.com:8091/movie/silviah/silvia24/70935.mkv
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj5nwEi7yEfDVISz8gL5Mw88AwS.jpg",Los Guapos
-http://planettvweb.com:8091/movie/silviah/silvia24/70936.avi
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEcX32I7IHypPRFTcpu5PTOS5Ab.jpg",Los Doctores
-http://planettvweb.com:8091/movie/silviah/silvia24/70941.mkv
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhFJeYVL9Er6iCrnW68csaBTxnj.jpg",Los fierecillos 
-http://planettvweb.com:8091/movie/silviah/silvia24/70944.avi
-#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sibPXfrtWz4m4yxSiR0RP5xv4ue.jpg",Mirame la palomita 
-http://planettvweb.com:8091/movie/silviah/silvia24/70951.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E01" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E01
@@ -554,6 +539,7 @@ http://planettvweb.com:8091/series/silviah/silvia24/51952.mp4
 http://planettvweb.com:8091/series/silviah/silvia24/51953.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E102" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E102
 http://planettvweb.com:8091/series/silviah/silvia24/51954.mp4
+
 
 
 
