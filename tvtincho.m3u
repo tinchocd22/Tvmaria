@@ -298,7 +298,7 @@ http://liontv.es:8080/movie/Julio2003/Julio2003/1591362.mkv
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/214500.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyDYLN.jpg",Top Secret
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/293819.mkv
-#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoypddX.jpg",Esperando la Carroza
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://iili.io/qoypddX.jpg",Esperando la Carroza
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/292544.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx991Og.jpg",Locademia de policia 2
 http://matrivagoweb.xyz:8080/movie/ANT116/123456/214499.mkv
@@ -328,6 +328,26 @@ http://dplatino.net:80/movie/credito3geotv/car26octtv/453940.mp4
 http://dplatino.net:80/movie/credito3geotv/car26octtv/453939.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://mundo2.pro:80/images/c03fe3b4da5563b37b6158700ec0aea4.jpg",We Bury the Dead
 http://dplatino.net:80/movie/credito3geotv/car26octtv/453702.mp4
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8l85vxFe9J1uEvK9qyIMBlYJNv.jpg",Nueve Reinas
+http://planettvweb.com:8091/movie/silviah/silvia24/80544.mp4
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vimbRR5XdkMj7CqnzVN92Cla8jN.jpg",Relatos Salvajes
+http://planettvweb.com:8091/movie/silviah/silvia24/80546.mkv
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3ZNM7UnxUcfITM8VWwujYHY1n.jpg",Cama Redonda
+http://planettvweb.com:8091/movie/silviah/silvia24/80480.mp4
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpsC4U5zgAcHy0YYwSvanJiJJrX.jpg",El Manosanta
+http://planettvweb.com:8091/movie/silviah/silvia24/70928.mkv
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aP4rQoaJsUSJEsIsO7YKjFEBpg.jpg",Experto en Pinchazos
+http://planettvweb.com:8091/movie/silviah/silvia24/70932.avi
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai3fMmUF3ysxmvHwGINr2wgeP6E.jpg",Hay Que Romper La Rutina
+http://planettvweb.com:8091/movie/silviah/silvia24/70935.mkv
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj5nwEi7yEfDVISz8gL5Mw88AwS.jpg",Los Guapos
+http://planettvweb.com:8091/movie/silviah/silvia24/70936.avi
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEcX32I7IHypPRFTcpu5PTOS5Ab.jpg",Los Doctores
+http://planettvweb.com:8091/movie/silviah/silvia24/70941.mkv
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhFJeYVL9Er6iCrnW68csaBTxnj.jpg",Los fierecillos 
+http://planettvweb.com:8091/movie/silviah/silvia24/70944.avi
+#EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sibPXfrtWz4m4yxSiR0RP5xv4ue.jpg",Mirame la palomita 
+http://planettvweb.com:8091/movie/silviah/silvia24/70951.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E01" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E01
@@ -430,6 +450,110 @@ http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82314.mkv
 http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82315.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E50" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E50
 http://tv.diablotv.net:8080/series/p2mMwywrcR/T2CLAL5mfW/82316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E51" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E51
+http://planettvweb.com:8091/series/silviah/silvia24/51903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E01" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E52
+http://planettvweb.com:8091/series/silviah/silvia24/51904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E02" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E53
+http://planettvweb.com:8091/series/silviah/silvia24/51905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E03" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E54
+http://planettvweb.com:8091/series/silviah/silvia24/51906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E04" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E55
+http://planettvweb.com:8091/series/silviah/silvia24/51907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E05" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E56
+http://planettvweb.com:8091/series/silviah/silvia24/51908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E06" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E57
+http://planettvweb.com:8091/series/silviah/silvia24/51909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E07" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E58
+http://planettvweb.com:8091/series/silviah/silvia24/51910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E08" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E59
+http://planettvweb.com:8091/series/silviah/silvia24/51911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E09" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E60
+http://planettvweb.com:8091/series/silviah/silvia24/51912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E10" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E61
+http://planettvweb.com:8091/series/silviah/silvia24/51913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E11" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E62
+http://planettvweb.com:8091/series/silviah/silvia24/51914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E12" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E63
+http://planettvweb.com:8091/series/silviah/silvia24/51915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E13" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E64
+http://planettvweb.com:8091/series/silviah/silvia24/51916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E14" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E65
+http://planettvweb.com:8091/series/silviah/silvia24/51917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E15" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E66
+http://planettvweb.com:8091/series/silviah/silvia24/51918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E16" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E67
+http://planettvweb.com:8091/series/silviah/silvia24/51919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E17" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E68
+http://planettvweb.com:8091/series/silviah/silvia24/51920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E18" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E69
+http://planettvweb.com:8091/series/silviah/silvia24/51921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E19" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E70
+http://planettvweb.com:8091/series/silviah/silvia24/51922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E20" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E71
+http://planettvweb.com:8091/series/silviah/silvia24/51923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E21" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E72
+http://planettvweb.com:8091/series/silviah/silvia24/51924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E22" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E73
+http://planettvweb.com:8091/series/silviah/silvia24/51925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E23" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E74
+http://planettvweb.com:8091/series/silviah/silvia24/51926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E24" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E75
+http://planettvweb.com:8091/series/silviah/silvia24/51927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E25" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E76
+http://planettvweb.com:8091/series/silviah/silvia24/51928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E26" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E77
+http://planettvweb.com:8091/series/silviah/silvia24/51929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E27" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E78
+http://planettvweb.com:8091/series/silviah/silvia24/51930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E28" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E79
+http://planettvweb.com:8091/series/silviah/silvia24/51931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E29" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E80
+http://planettvweb.com:8091/series/silviah/silvia24/51932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E30" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E81
+http://planettvweb.com:8091/series/silviah/silvia24/51933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E31" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E82
+http://planettvweb.com:8091/series/silviah/silvia24/51934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E32" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E83
+http://planettvweb.com:8091/series/silviah/silvia24/51935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E33" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E84
+http://planettvweb.com:8091/series/silviah/silvia24/51936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E34" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E85
+http://planettvweb.com:8091/series/silviah/silvia24/51937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E35" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E86
+http://planettvweb.com:8091/series/silviah/silvia24/51938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E36" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E87
+http://planettvweb.com:8091/series/silviah/silvia24/51939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E37" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E88
+http://planettvweb.com:8091/series/silviah/silvia24/51940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E38" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E89
+http://planettvweb.com:8091/series/silviah/silvia24/51941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E39" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E90
+http://planettvweb.com:8091/series/silviah/silvia24/51942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E40" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E91
+http://planettvweb.com:8091/series/silviah/silvia24/51943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E92" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E92
+http://planettvweb.com:8091/series/silviah/silvia24/51944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E93" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E93
+http://planettvweb.com:8091/series/silviah/silvia24/51945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E94" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E94
+http://planettvweb.com:8091/series/silviah/silvia24/51946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E95" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E95
+http://planettvweb.com:8091/series/silviah/silvia24/51947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E96" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E96
+http://planettvweb.com:8091/series/silviah/silvia24/51948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E97" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E97
+http://planettvweb.com:8091/series/silviah/silvia24/51949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E98" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E98
+http://planettvweb.com:8091/series/silviah/silvia24/51950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E99" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E99
+http://planettvweb.com:8091/series/silviah/silvia24/51951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E100" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E100
+http://planettvweb.com:8091/series/silviah/silvia24/51952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E101" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E101
+http://planettvweb.com:8091/series/silviah/silvia24/51953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E102" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E102
+http://planettvweb.com:8091/series/silviah/silvia24/51954.mp4
 
 
 
