@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
-http://207.246.114.254:25461/live/gabysports/gabysports/3172.m3u8
+http://dplatino.net:80//live/Cotes737hdff/737373vevrv/81285.ts
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe 
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" Name="opc 2",Telefe 
@@ -10,14 +10,14 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3401.m3u8
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81285.ts
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
-http://207.246.114.254:25461/live/gabysports/gabysports/3182.m3u8
+http://dplatino.net:80//live/Cotes737hdff/737373vevrv/81269.ts
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece 
 http://207.246.114.254:25461/live/gabysports/gabysports/3410.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
-http://207.246.114.254:25461/live/gabysports/gabysports/3181.m3u8
+http://dplatino.net:80//live/Cotes737hdff/737373vevrv/81268.ts
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
 http://207.246.114.254:25461/live/gabysports/gabysports/3409.m3u8
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://iili.io/qxBpBbR.png",El Nueve 
@@ -525,6 +525,7 @@ http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82359.mkv
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82360.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E95" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E95
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82361.mkv
+
 
 
 
