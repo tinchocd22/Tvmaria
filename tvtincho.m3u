@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+http://181.209.125.236:10000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://dplatino.net:80//live/Cotes737hdff/737373vevrv/81285.ts
 #EXTINF:-1 tvg-id="telefe" altname="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,Telefe 
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/164870 
@@ -45,7 +47,7 @@ http://dplatino.net:80//live/credito3geotv/car26octtv/454929.ts
 
 
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver
-http://207.246.114.254:25461/live/gabysports/gabysports/3178.m3u8
+http://181.209.125.236:10000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://files.catbox.moe/xmtxda.jpg",Volver 
 http://207.246.114.254:25461/live/gabysports/gabysports/3406.m3u8
 
@@ -96,21 +98,18 @@ http://redworld.pro:8880/luis738049207/98756479239/327919
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
 
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
-http://tv.diablotv.net:8080/JACKRIV23/1234567890/9522
+http://181.209.125.236:10000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
-http://207.246.114.254:25461/live/gabysports/gabysports/3353.m3u8
+http://tv.diablotv.net:8080/JACKRIV23/1234567890/9522
 #EXTINF:-1 tvg-id="Espn 1" tvg-logo="https://iili.io/qopzTeR.png",Espn 1 
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12755
 
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
-http://207.246.114.254:25461/live/gabysports/gabysports/3117.m3u8
+http://181.209.125.236:10000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 
 http://207.246.114.254:25461/live/gabysports/gabysports/3350.m3u8
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://iili.io/qopRJt4.png",Espn 2
 http://138.121.114.91:8000/play/a098/index.m3u8
-
-#EXTINF:-1 tvg-id="Espn 2 Plus" tvg-logo="https://iili.io/qopRJt4.png",Espn 2 Plus
-http://181.224.200.5:2277/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn 3" tvg-logo="https://iili.io/qopagTu.png",Espn 3
 http://138.121.114.91:8000/play/a09a/index.m3u8
@@ -127,17 +126,17 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3352.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3119.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://iili.io/qopV6rJ.png",TyC Sport
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12040
+http://181.209.125.236:10000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="TyC Sport" tvg-logo="https://iili.io/qopV6rJ.png",TyC Sport 
-http://207.246.114.254:25461/live/gabysports/gabysports/3403.m3u8
+http://planettvweb.com:8091/pablotorres/Ferpab8719/12040
 
 #EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1 
-http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/50506.ts
+http://181.209.125.236:10000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 1" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1
 http://138.121.114.91:8000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2 
-http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/50507.ts
+http://181.209.125.236:10000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2
 http://138.121.114.91:8000/play/a09b/index.m3u8
 
@@ -521,6 +520,7 @@ http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82359.mkv
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82360.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E95" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E95
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82361.mkv
+
 
 
 
