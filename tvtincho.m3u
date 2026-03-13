@@ -222,7 +222,7 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3162.m3u8
 #EXTINF:-1 tvg-id="Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marvel%27s_The_Avengers_logo.svg/960px-Marvel%27s_The_Avengers_logo.svg.png",Avengers
 http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/165068
 
-#EXTINF:-1 tvg-id="Golden Premier" tvg-logo="https://iili.io/qxGDJv1.png",Golden Premier
+#EXTINF:-1 tvg-id="Golden Premier" tvg-logo="https://iili.io/qxGDJv1.png",    Golden Premier
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164942
 #EXTINF:-1 tvg-id="Peliculas Estrenos" tvg-logo="http://mundo2.vip:8080/images/0781e4d5f818a46523aa589156fb2c07.png",Peliculas Estrenos
 http://dplatino.net:80//live/Cotes737hdff/737373vevrv/317128.ts
@@ -231,7 +231,7 @@ http://planettvweb.com:8091/GiovaniT/ABet7904d/20347
 #EXTINF:-1 tvg-id="Apple Movie" tvg-logo="https://iili.io/qxV6WOJ.png",Apple Movie
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164956
 #EXTINF:-1 tvg-id="Cine Accion 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg",Cine Accion 2
-http://planettvweb.com:8091/GiovaniT/ABet7904d/74599
+http://live.fuxxion.club:8080/Enrique1996/0059132171c1/164581
 #EXTINF:-1 tvg-id="Cinema" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg",Cinema
 http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/164942
 #EXTINF:-1 tvg-id="Comedias Clasicas" tvg-logo="https://i.postimg.cc/66ZCM99D/CINE-COMEDIA-2.png",Comedias Clasicas
@@ -341,9 +341,9 @@ http://dplatino.net:80/movie/usuariocanales655/GSroWNZWux/455965.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",El Guardian
 http://dplatino.net:80/movie/credito3geotv/car26octtv/453940.mp4
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg",El Engaño
-http://dplatino.net:80/movie/credito3geotv/car26octtv/453939.mp4
+http://tvpromas.com:2082/movie/56965916024faceztv/281023ztv/135329.mkv
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="http://mundo2.pro:80/images/c03fe3b4da5563b37b6158700ec0aea4.jpg",We Bury the Dead
-http://dplatino.net:80/movie/credito3geotv/car26octtv/453702.mp4
+http://tvpromas.com:2082/movie/56965916024faceztv/281023ztv/135326.mkv
 #EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8l85vxFe9J1uEvK9qyIMBlYJNv.jpg",Nueve Reinas
 http://planettvweb.com:8091/movie/silviah/silvia24/80544.mp4
 #EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vimbRR5XdkMj7CqnzVN92Cla8jN.jpg",Relatos Salvajes
@@ -549,6 +549,7 @@ http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82359.mkv
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82360.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E95" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E95
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82361.mkv
+
 
 
 
