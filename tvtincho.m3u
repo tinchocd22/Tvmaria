@@ -71,6 +71,9 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166308
 #EXTINF:-1 tvg-id="Dos Hombres y Medio" tvg-logo="https://iili.io/qopfkDF.png",Dos Hombres y Medio
 https://xtream.videx.lol/Yoshiro/admin/115.m3u8
 
+#EXTINF:-1 tvg-id="Mrs Bean" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg",Mrs Bean
+http://planettvweb.com:8091/GiovaniT/ABet7904d/16427
+
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://181.209.125.236:10000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
@@ -206,16 +209,24 @@ http://181.209.125.236:10000/play/a00p/index.m3u8
 http://207.246.114.254:25461/live/gabysports/gabysports/3162.m3u8
 
 #EXTINF:-1 tvg-id="Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marvel%27s_The_Avengers_logo.svg/960px-Marvel%27s_The_Avengers_logo.svg.png",Avengers
-http://ultrax.online:8080/997666249tv/hypxsw64/250576
+http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/165068
 
 #EXTINF:-1 tvg-id="Golden Premier" tvg-logo="https://iili.io/qxGDJv1.png",Golden Premier
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164942
 #EXTINF:-1 tvg-id="Peliculas Estrenos" tvg-logo="http://mundo2.vip:8080/images/0781e4d5f818a46523aa589156fb2c07.png",Peliculas Estrenos
 http://dplatino.net:80//live/Cotes737hdff/737373vevrv/317128.ts
-#EXTINF:-1 tvg-id="Comedias" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png",Comedias
-http://dplatino.net:80//live/Cotes737hdff/737373vevrv/317086.ts
+#EXTINF:-1 tvg-id="Cine Accion" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg",Cine Accion
+http://planettvweb.com:8091/GiovaniT/ABet7904d/20347
 #EXTINF:-1 tvg-id="Apple Movie" tvg-logo="https://iili.io/qxV6WOJ.png",Apple Movie
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164956
+#EXTINF:-1 tvg-id="Cine Accion 2" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg",Cine Accion 2
+http://planettvweb.com:8091/GiovaniT/ABet7904d/74599
+#EXTINF:-1 tvg-id="Cinema" tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg",Cinema
+http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/164942
+#EXTINF:-1 tvg-id="Comedias Clasicas" tvg-logo="https://i.postimg.cc/66ZCM99D/CINE-COMEDIA-2.png",Comedias Clasicas
+http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/164960
+#EXTINF:-1 tvg-id="Comedias" tvg-logo="https://i.postimg.cc/5NHT7QXP/Comedia-3-Proyecto-X.png",Comedias 
+http://tv.zapping.life:8080/9AhwRKcpLM/ee9fddb05151/164961
 
 
 #EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",TN Noticias
@@ -328,6 +339,13 @@ http://planettvweb.com:8091/movie/silviah/silvia24/80544.mp4
 http://planettvweb.com:8091/movie/silviah/silvia24/80546.mkv
 #EXTINF:-1 type="movie" group-title="Argentino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3ZNM7UnxUcfITM8VWwujYHY1n.jpg",Cama Redonda
 http://planettvweb.com:8091/movie/silviah/silvia24/80480.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkmzt08vghSGlLYuqJpx4e2moRX.jpg",Ruta de escape
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147548.mp4
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",Solo Mio
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147561.mkv
+#EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",Redux Redux
+http://planettvweb.com:8091/movie/GiovaniT/ABet7904d/147493.mkv
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E01" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E01
@@ -520,6 +538,7 @@ http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82359.mkv
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82360.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casados con hijos S01 E95" tvg-logo="https://iili.io/qII5dla.jpg",Casados con hijos S01 E95
 http://tv.diablotv.net:8080/series/JACKRIV23/1234567890/82361.mkv
+
 
 
 
